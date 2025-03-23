@@ -52,11 +52,11 @@ public class countNodes {
 
 
 
-    public static int countNodes(TreeNode root){
+    public static int countNode(TreeNode root){
         if(root == null) return 0;
 
-        int left = countNodes(root.left);
-        int right = countNodes(root.right);
+        int left = countNode(root.left);
+        int right = countNode(root.right);
 
         int ans = left + right + 1;
 

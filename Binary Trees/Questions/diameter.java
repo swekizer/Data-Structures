@@ -58,7 +58,7 @@ public class diameter {
     }
 
 
-    public static int diameter(TreeNode root){
+    public static int diameterOfTree(TreeNode root){
         return 0;
     }
 }

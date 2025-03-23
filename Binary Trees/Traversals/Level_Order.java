@@ -73,7 +73,7 @@ public class Level_Order{
             List<Integer> level = new ArrayList<>();
 
             for(int i=0; i<queueSize; i++){
-                TreeNode node = queue.poll();
+                TreeNode node = queue.poll();   
                 level.add(node.data);
 
                 if(node.left != null) queue.add(node.left);
