@@ -1,0 +1,5 @@
+BFS
+
+When it will be used:
+1. When answer lies near the root node
+2. When you are asked to search by level.

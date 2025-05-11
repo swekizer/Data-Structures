@@ -1,0 +1,94 @@
+types of languages
+
+1. Machine Languages
+- Binary code (0s and 1s)
+- Directly executed by computer hardware
+- Very difficult for humans to read/write
+
+2. Assembly Languages  
+- Low-level symbolic representation
+- Maps directly to machine code
+- Uses mnemonics instead of binary
+- Still hardware dependent
+
+3. High-Level Languages
+- More abstract and human readable
+- Platform independent
+- Examples: Python, Java, C++, JavaScript
+- Requires compilation/interpretation
+
+4. Domain-Specific Languages (DSLs)
+- Designed for specific applications
+- Examples: SQL for databases, HTML for web
+- Limited but powerful in their domain
+
+5. Scripting Languages
+- Interpreted rather than compiled
+- Used for automation and small programs
+- Examples: Python, JavaScript, Shell scripts
+
+
+
+
+
+
+Programming Paradigms:
+
+1. Procedural Programming
+- Sequential execution of instructions
+- Based on procedures/functions
+- Examples: C, BASIC, Pascal
+
+2. Functional Programming
+- Based on mathematical functions
+- Immutable data and pure functions
+- Examples: Haskell, Lisp, Erlang
+
+- Writing a program only in pure functions ie never modify variables, but only create new ones as an output.
+- Used in situations where we have to perform lots of different operations on the same set of data like ML.
+
+3. Object-Oriented Programming
+- Based on objects and classes
+- Encapsulation, inheritance, polymorphism
+- Examples: Java, C++, Python
+
+- Developed to make it easier to develop, debug, reuse, ans maintain, software.
+
+4. Logic Programming
+- Based on formal logic
+- Declarative approach
+- Examples: Prolog, Mercury
+
+5. Event-Driven Programming
+- Based on events and handlers
+- Common in GUI applications
+- Examples: JavaScript, Visual Basic
+
+
+
+
+
+
+
+
+Static vs Dynamic Languages
+
+1. Static Languages
+- Type checking at compile time
+- Variables must be declared with specific types
+- Better performance and early error detection
+- Examples: Java, C++, TypeScript
+
+2. Dynamic Languages  
+- Type checking at runtime
+- Variables can change types
+- More flexible but can have runtime errors
+- Examples: Python, JavaScript, Ruby
+
+Key Differences:
+- Error Detection: Static (compile-time) vs Dynamic (runtime)
+- Performance: Static (faster) vs Dynamic (slower)
+- Development Speed: Static (slower) vs Dynamic (faster)
+- Flexibility: Static (rigid) vs Dynamic (flexible)
+
+Runtime is basically after the code has compiled.

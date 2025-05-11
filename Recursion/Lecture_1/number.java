@@ -1,6 +1,3 @@
-package Recursion;
-
-
 //Task:write a function that takes in a number and prints it 5 times without modifying the function and calling it 5 times
 //This is a simple example of recursion
 

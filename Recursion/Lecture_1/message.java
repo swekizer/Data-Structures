@@ -1,5 +1,3 @@
-package Recursion;
-
 //Task: Print Hello 5 times without modifying the function and calling it 5 times
 //This is a simple example of recursion
 
